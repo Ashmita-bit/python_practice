@@ -1,0 +1,7 @@
+studentTuple= ("Khushi", "Divya", "Ishaan", "Divya")
+emptyTuple= ()
+singleTuple= (1,)
+print(type(emptyTuple))
+print(type(singleTuple))
+print(studentTuple.index("Divya"))
+print(studentTuple.count("Aditya"))
